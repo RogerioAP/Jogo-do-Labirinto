@@ -1,4 +1,4 @@
-﻿using System;
+﻿using System;/*Rogério Almeida Pereira*/
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -38,7 +38,7 @@ namespace Labirinto
         private int Soma()
         {
             soma = soma + 1;
-            return soma;
+            return soma;/*Rogério Almeida Pereira*/
         }
 
         public void lblPonto1_MouseEnter(object sender, EventArgs e)

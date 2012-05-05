@@ -38,3 +38,12 @@ J:\Rogério\Luciana\Labirinto\Labirinto\obj\x86\Debug\GenerateResource.write.1.t
 J:\Rogério\Luciana\Labirinto\Labirinto\obj\x86\Debug\Labirinto.Labirinto.resources
 E:\Rogério\JOGOS EM C#\Labirinto\Labirinto\obj\x86\Debug\Labirinto.exe
 E:\Rogério\JOGOS EM C#\Labirinto\Labirinto\obj\x86\Debug\Labirinto.pdb
+C:\Users\rogerio\.ssh\Source\jogodolabirinto\Labirinto\obj\x86\Debug\Labirinto.exe
+C:\Users\rogerio\.ssh\Source\jogodolabirinto\Labirinto\obj\x86\Debug\Labirinto.pdb
+C:\Users\rogerio\.ssh\Source\jogodolabirinto\Labirinto\bin\Debug\Labirinto.exe
+C:\Users\rogerio\.ssh\Source\jogodolabirinto\Labirinto\bin\Debug\Labirinto.pdb
+C:\Users\rogerio\.ssh\Source\jogodolabirinto\Labirinto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rogerio\.ssh\Source\jogodolabirinto\Labirinto\obj\x86\Debug\Labirinto.Labirinto.resources
+C:\Users\rogerio\.ssh\Source\jogodolabirinto\Labirinto\obj\x86\Debug\Labirinto.Properties.Resources.resources
+C:\Users\rogerio\.ssh\Source\jogodolabirinto\Labirinto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\rogerio\.ssh\Source\jogodolabirinto\Labirinto\obj\x86\Debug\GenerateResource.write.1.tlog

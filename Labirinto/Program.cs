@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
-
+/*Rogério Almeida Pereira*/
 namespace Labirinto
 {
     static class Program
