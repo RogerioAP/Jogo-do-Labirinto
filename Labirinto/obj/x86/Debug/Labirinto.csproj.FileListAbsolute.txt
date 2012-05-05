@@ -1,0 +1,40 @@
+C:\Users\r\AppData\Local\Temporary Projects\Labirinto\bin\Debug\Labirinto.exe
+C:\Users\r\AppData\Local\Temporary Projects\Labirinto\bin\Debug\Labirinto.pdb
+C:\Users\r\AppData\Local\Temporary Projects\Labirinto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\r\AppData\Local\Temporary Projects\Labirinto\obj\x86\Debug\Labirinto.Form1.resources
+C:\Users\r\AppData\Local\Temporary Projects\Labirinto\obj\x86\Debug\Labirinto.Properties.Resources.resources
+C:\Users\r\AppData\Local\Temporary Projects\Labirinto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\r\AppData\Local\Temporary Projects\Labirinto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\r\AppData\Local\Temporary Projects\Labirinto\obj\x86\Debug\Labirinto.exe
+C:\Users\r\AppData\Local\Temporary Projects\Labirinto\obj\x86\Debug\Labirinto.pdb
+F:\Luciana\Labirinto\Labirinto\obj\x86\Debug\Labirinto.exe
+F:\Luciana\Labirinto\Labirinto\obj\x86\Debug\Labirinto.pdb
+F:\Luciana\Labirinto\Labirinto\bin\Debug\Labirinto.exe
+F:\Luciana\Labirinto\Labirinto\bin\Debug\Labirinto.pdb
+F:\Luciana\Labirinto\Labirinto\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Luciana\Labirinto\Labirinto\obj\x86\Debug\Labirinto.Form1.resources
+F:\Luciana\Labirinto\Labirinto\obj\x86\Debug\Labirinto.Properties.Resources.resources
+F:\Luciana\Labirinto\Labirinto\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Luciana\Labirinto\Labirinto\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Rogério\Luciana\Labirinto\Labirinto\obj\x86\Debug\Labirinto.exe
+F:\Rogério\Luciana\Labirinto\Labirinto\obj\x86\Debug\Labirinto.pdb
+F:\Rogério\Luciana\Labirinto\Labirinto\bin\Debug\Labirinto.exe
+F:\Rogério\Luciana\Labirinto\Labirinto\bin\Debug\Labirinto.pdb
+F:\Rogério\Luciana\Labirinto\Labirinto\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Rogério\Luciana\Labirinto\Labirinto\obj\x86\Debug\Labirinto.Form1.resources
+F:\Rogério\Luciana\Labirinto\Labirinto\obj\x86\Debug\Labirinto.Properties.Resources.resources
+F:\Rogério\Luciana\Labirinto\Labirinto\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Rogério\Luciana\Labirinto\Labirinto\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\Rogério\Luciana\Labirinto\Labirinto\obj\x86\Debug\Labirinto.exe
+I:\Rogério\Luciana\Labirinto\Labirinto\obj\x86\Debug\Labirinto.pdb
+J:\Rogério\Luciana\Labirinto\Labirinto\obj\x86\Debug\Labirinto.exe
+J:\Rogério\Luciana\Labirinto\Labirinto\obj\x86\Debug\Labirinto.pdb
+J:\Rogério\Luciana\Labirinto\Labirinto\bin\Debug\Labirinto.exe
+J:\Rogério\Luciana\Labirinto\Labirinto\bin\Debug\Labirinto.pdb
+J:\Rogério\Luciana\Labirinto\Labirinto\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Rogério\Luciana\Labirinto\Labirinto\obj\x86\Debug\Labirinto.Properties.Resources.resources
+J:\Rogério\Luciana\Labirinto\Labirinto\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\Rogério\Luciana\Labirinto\Labirinto\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\Rogério\Luciana\Labirinto\Labirinto\obj\x86\Debug\Labirinto.Labirinto.resources
+E:\Rogério\JOGOS EM C#\Labirinto\Labirinto\obj\x86\Debug\Labirinto.exe
+E:\Rogério\JOGOS EM C#\Labirinto\Labirinto\obj\x86\Debug\Labirinto.pdb
