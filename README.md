@@ -1,1 +1,1 @@
-Jogo do Labirinto em C# (c sharp) - O objeitvo do jogo é passar o ponteiro do mouse entre as barras azuis, indo da marca 'Saída >' até a marca '> Chegada' no menor tempo possível. Duvido que você que está lendo consiga ganhar nesse jogo!
+Jogo do Labirinto em C# (c sharp) - O objeitvo do jogo é passar o ponteiro do mouse entre as barras azuis, indo da marca 'Saída >' até a marca '> Chegada' no menor tempo possível.
